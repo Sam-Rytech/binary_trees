@@ -255,4 +255,4 @@ Function Prototypes
     * Searching for a node in a binary heap of size `n`.
 
 ## Author
-*Omolayo Temitayo
+* Omolayo Temitayo
